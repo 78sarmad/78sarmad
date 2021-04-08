@@ -17,7 +17,7 @@
 I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad/), cross-platform Mobile App Developer and Software Engineering Student from Pakistan. 
 My passion lies in designing and developing apps for mobile and web, coherent experiences and everything in between.
 
-I am also curious about Artificial Intelligence and expanding my skillset in Machine Learning.
+I am also curious about Artificial Intelligence and expanding my knowledge in Machine Learning.
 I participate in and maintain a Developers Society where students from my department teach and learn from eachother by collaborating on our semester projects.
 
 - 📫 How to reach me: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
