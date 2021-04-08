@@ -7,6 +7,9 @@
 <a href="https://www.instagram.com/78sarmad">
   <img align="left" alt="Sarmad's Instagram" width="22px" src="https://raw.githubusercontent.com/gist/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" />
 </a>
+<a href="https://www.behance.net/78sarmad">
+  <img align="left" alt="Sarmad's Behance" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/behance.svg" />
+</a>
 <br />
 
 ### 👋🏻 Hey there!  
