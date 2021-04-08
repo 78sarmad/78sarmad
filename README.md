@@ -10,7 +10,7 @@
 <a href="https://www.behance.net/78sarmad">
   <img align="left" alt="Sarmad's Behance" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/behance.svg" />
 </a>
-<br />
+<br>
 
 ### 👋🏻 Hey there!  
 
@@ -25,24 +25,24 @@ I participate in and maintain a Developers Society where students from my depart
 
 **Languages & Frameworks**  
 
-📱 Mobile Dev: Flutter, Dart, Figma
-💻 Web Dev: Bootstrap, ReactJS (Entry Level)
-⚙ Database: SQL, Firebase
-🖥 Desktop: C# WinForms
+- 📱 Mobile Dev: Flutter, Dart, Figma
+- 💻 Web Dev: Bootstrap, ReactJS (Entry Level)
+- ⚙ Database: SQL, Firebase
+- 🖥 Desktop: C# WinForms
 
 **Tools & Platforms**  
 
-🔨 Git, WordPress
-🛠 AWS EC, Netlify, Docker
-🎨 Adobe Xd, Illustrator, Balsamiq
+- 🔨 Git, WordPress
+- 🛠 AWS EC, Netlify, Docker
+- 🎨 Adobe Xd, Illustrator, Balsamiq
 
 **Work Portfolio**  
 
-⚒ Development Work: [View on Github](https://github.com/78sarmad?tab=repositories)
-🖼 Design Work: [View on Behance](https://www.behance.net/78sarmad)
+- ⚒ Development Work: [View on Github](https://github.com/78sarmad?tab=repositories)
+- 🖼 Design Work: [View on Behance](https://www.behance.net/78sarmad)
 
 **Find more about my work experience**  
 
-💼 LinkedIn: [Let's connect on LinkedIn! :)](https://www.linkedin.com/in/78sarmad)
-💭 Blog: [Well, I like to write sometimes. ^_^](http://78sarmad.wordpress.com/)
-👩🏻‍💻 Medium: [Just started exploring Medium :3](https://78sarmad.medium.com/)
+- 💼 LinkedIn: [Let's connect on LinkedIn! :)](https://www.linkedin.com/in/78sarmad)
+- 💭 Blog: [Well, I like to write sometimes. ^_^](http://78sarmad.wordpress.com/)
+- 👩🏻‍💻 Medium: [Just started exploring Medium :3](https://78sarmad.medium.com/)
