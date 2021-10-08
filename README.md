@@ -47,5 +47,4 @@ I participate in and maintain a Developers Society where students from my depart
 **Find more about my work experience**  
 
 - 💼 LinkedIn: [Let's connect on LinkedIn! :)](https://www.linkedin.com/in/78sarmad)
-- 💭 Blog: [Well, I like to write sometimes. ^_^](http://78sarmad.wordpress.com/)
 - 👩🏻‍💻 Medium: [Just started exploring Medium :3](https://78sarmad.medium.com/)
