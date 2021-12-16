@@ -26,7 +26,7 @@ I participate in and maintain a Developers Society where students from my depart
 - 📫 How to reach me: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VEFgCHVOIuZKl_sWc5irmB-6UraORQai/view?usp=sharing) ***[Updated]***
 - 🌸 [Flutter Portfolio](https://drive.google.com/file/d/1r1VvWv6EWPBx8JTduSHyEfzCiM-sp-sQ/view?usp=sharing) ***[Updated]***
-- 🚀 [Just Released Umeed App on Play Store] (https://play.google.com/store/apps/details?id=pk.org.umeed)
+- 🚀 [Just Released Umeed App on Play Store](https://play.google.com/store/apps/details?id=pk.org.umeed)
 
 **Languages & Frameworks**  
 
