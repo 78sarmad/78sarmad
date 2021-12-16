@@ -24,7 +24,7 @@ I am also curious about Artificial Intelligence and expanding my knowledge in Ma
 I participate in and maintain a Developers Society where students from my department teach and learn from eachother by collaborating on our semester projects.
 
 - 📫 How to reach me: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1YO_yhhHteQU7abVX2MuC3puk1n0MHcHt/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1VEFgCHVOIuZKl_sWc5irmB-6UraORQai/view?usp=sharing)
 
 **Languages & Frameworks**  
 
