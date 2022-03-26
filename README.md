@@ -34,7 +34,7 @@ I participate in and maintain a Developers Society where students from my depart
 - 💻 Web Dev: Bootstrap, ReactJS (Entry Level)
 - ⚙ Database: SQL, Firebase
 - 🖥 Desktop: C# WinForms
-- 👨🏻‍💻 Learning: FastAPI
+- 🔥 Backend/API: Python/FastAPI
 
 **Tools & Platforms**  
 
