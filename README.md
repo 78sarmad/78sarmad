@@ -24,7 +24,7 @@ I am also curious about Artificial Intelligence and expanding my knowledge in Ma
 I participate in and maintain a Developers Society where students from my department teach and learn from eachother by collaborating on our semester projects.
 
 - 📫 How to reach me: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VEFgCHVOIuZKl_sWc5irmB-6UraORQai/view?usp=sharing) ***[Updated]***
+- 📝 [Resume](https://drive.google.com/file/d/1EVMKDQmwt7UB7ey8NV_mKN6SOwCtLXwD/view?usp=sharing) ***[Updated]***
 - 🌸 [Flutter Portfolio](https://drive.google.com/file/d/1r1VvWv6EWPBx8JTduSHyEfzCiM-sp-sQ/view?usp=sharing) ***[Updated]***
 - 🚀 [Just Released Umeed App on Play Store](https://play.google.com/store/apps/details?id=pk.org.umeed)
 
