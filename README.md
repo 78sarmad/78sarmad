@@ -1,6 +1,6 @@
 ### 👋🏻 Hello there!  
 
-I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad/), a Software Engineer from Pakistan. My passion lies in designing and developing apps for mobile and web, coherent experiences and everything in between.
+I'm [Sarmad Ashfaq Chaudhary](https://78sarmad.glitch.me), a Software Engineer from Pakistan. My passion lies in designing and developing apps for mobile and web, coherent experiences and everything in between.
 
 ### 🚀 [View Portfolio](https://78sarmad.glitch.me)
 
