@@ -17,16 +17,7 @@
 
 ### 👋🏻 Hey there!  
 
-I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad/), cross-platform Mobile App Developer and Software Engineering (Final Year) Student from Pakistan. 
-My passion lies in designing and developing apps for mobile and web, coherent experiences and everything in between.
-
-I am also curious about Artificial Intelligence and expanding my knowledge in Machine Learning.
-I participate in and maintain a Developers Society where students from my department teach and learn from eachother by collaborating on our semester projects.
-
-- 📫 How to reach me: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1EVMKDQmwt7UB7ey8NV_mKN6SOwCtLXwD/view?usp=sharing) ***[Updated]***
-- 🌸 [Flutter Portfolio](https://drive.google.com/file/d/1r1VvWv6EWPBx8JTduSHyEfzCiM-sp-sQ/view?usp=sharing) ***[Updated]***
-- 🚀 [Just Released Umeed App on Play Store](https://play.google.com/store/apps/details?id=pk.org.umeed)
+I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad/), a Software Engineer from Pakistan. My passion lies in designing and developing apps for mobile and web, coherent experiences and everything in between.
 
 **Languages & Frameworks**  
 
@@ -42,12 +33,7 @@ I participate in and maintain a Developers Society where students from my depart
 - 🛠 AWS EC, Netlify, Docker
 - 🎨 Adobe Xd, Illustrator, Balsamiq
 
-**Work Portfolio**  
+### 🚀 [View Portfolio](https://78sarmad.glitch.me)
 
-- ⚒ Development Work: [View on Github](https://github.com/78sarmad?tab=repositories)
-- 🖼 Design Work: [View on Behance](https://www.behance.net/78sarmad)
+[![Sarmad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=78sarmad&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-**Find more about my work experience**  
-
-- 💼 LinkedIn: [Let's connect on LinkedIn! :)](https://www.linkedin.com/in/78sarmad)
-- 👩🏻‍💻 Medium: [Just started exploring Medium :3](https://78sarmad.medium.com/)
