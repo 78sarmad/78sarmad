@@ -19,4 +19,4 @@ I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad), a Software 
 - 💼 JIRA, Scrum, MS Project, Knowledge Base, GitBook
 - 🔨 Git/SVN, GitHub Workflows, Codemagic CI/CD
 - 🛠 AWS, Heroku, Vercel, Netlify
-- 🎨 Apache, NGINX, Docker
+- 🚢 Apache, NGINX, Docker
