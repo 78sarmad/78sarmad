@@ -10,9 +10,25 @@ I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad), a Software 
 **Languages & Frameworks**
 
 - 📱 Mobile: Flutter/Dart, Swift
+- ⚡️ State Management: Provider, Riverpod, GetX, BLoC, Redux
 - 💻 Web/Server: ReactJS, Redux, Python, FastAPI
 - ⚙ Database: MySQL, MSSQL, Firebase, Redis, MongoDB
 - ⠷ Bash, C++, Objective-C
+
+**SDKs & Integrations**
+- D1 Digital Card Wallet SDK
+- Stripe Payments
+- AWS Storage
+- Veriff Identity Verification
+- Facebook Core Kit & Braze Marketing
+- Firebase Analytics, Crashlytics, Cloud Messaging & Chat
+- IPQuality Fraud Analysis
+- Native Swift & WidgetKit Services
+
+**Architecture & Core Design**
+- 📱 Mobile Architecture: MVC & MVVM Architectural Styles
+- 💻 Web Architecture: Service-oriented & Microservices architecture
+- 🔨 Design Patterns: Creational, Structural & Behavioural
 
 **Tools & Platforms**
 
