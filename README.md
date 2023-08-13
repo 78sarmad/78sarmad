@@ -2,6 +2,15 @@
 
 I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad), a Software Engineer based in Pakistan. I love improving people’s lives by developing great products and building amazing teams.
 
+<a href="https://www.linkedin.com/in/78sarmad/">
+  <img align="left" alt="Sarmad's Behance" height="30px" src="icons/linkedin.svg" />
+</a>
+<a href="mailto:78sarmad@gmail.com">
+  <img align="left" alt="Sarmad's Behance" height="32px" src="icons/email.svg" />
+</a><br />
+
+<br />
+
 **Great Products I've worked on**
 
 - [ACE Money Transfer](https://apps.apple.com/in/app/ace-money-transfer/id1290922727) - International Remittance app that serves millions of users by providing a secure and reliable money transfer services.
