@@ -3,13 +3,22 @@
 I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad), a Software Engineer based in Pakistan. I love improving people’s lives by developing great products and building amazing teams.
 
 <a href="https://www.linkedin.com/in/78sarmad/">
-  <img align="left" alt="Sarmad's Behance" height="30px" src="icons/linkedin.svg" />
+  <img align="left" alt="Sarmad's LinkedIn" height="30px" src="icons/linkedin.svg" />
 </a>
+<!-- <a href="https://drive.google.com/file/d/1Bss135QjwM4kyvicpSfIYYjISU-QXrPS/view?usp=sharing">
+  <img align="left" alt="Sarmad's Resume" height="32px" src="icons/resume.svg" /> -->
 <a href="mailto:78sarmad@gmail.com">
   <img align="left" alt="Sarmad's Behance" height="32px" src="icons/email.svg" />
 </a><br />
 
 <br />
+
+**Professional Experience**
+
+- Project Manager at [Codigo Studios](https://codigostudios.co.uk/) (Present)
+- Flutter Engineer at [ACE Money Transfer](https://acemoneytransfer.com/)
+- Flutter Instructor at [KhasTech Solutions](https://khastech.com/)
+- Software Developer at [UNDP Pakistan](https://www.undp.org/pakistan)
 
 **Great Products I've worked on**
 
