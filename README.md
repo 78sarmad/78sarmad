@@ -1,6 +1,6 @@
 ### 👋🏻 Hello!
 
-I'm [Sarmad Ashfaq Chaudhary](https://www.linkedin.com/in/78sarmad), a Software Engineer based in Pakistan. I love improving people’s lives by developing great products and building amazing teams.
+I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing great products and building amazing teams.
 
 <a href="https://www.linkedin.com/in/78sarmad/">
   <img align="left" alt="Sarmad's LinkedIn" height="30px" src="icons/linkedin.svg" />
