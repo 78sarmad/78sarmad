@@ -5,8 +5,6 @@ I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing gre
 <a href="https://www.linkedin.com/in/78sarmad/">
   <img align="left" alt="Sarmad's LinkedIn" height="30px" src="icons/linkedin.svg" />
 </a>
-<!-- <a href="https://drive.google.com/file/d/1Bss135QjwM4kyvicpSfIYYjISU-QXrPS/view?usp=sharing">
-  <img align="left" alt="Sarmad's Resume" height="32px" src="icons/resume.svg" /> -->
 <a href="mailto:78sarmad@gmail.com">
   <img align="left" alt="Sarmad's Behance" height="32px" src="icons/email.svg" />
 </a><br />
@@ -27,7 +25,7 @@ I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing gre
 - [MyClub-MyRide](https://apps.apple.com/in/app/myclub-myride/id1642886637) - Luxury Car Rental app, integrated into MyClub's 360 system, is providing transport and travel services in the United Arab Emirates.
 - [Umeed](https://play.google.com/store/apps/details?id=pk.org.umeed) - Psychological Help app that helps patients with psychological issues and connect with professional psychologists.
 
-**Noteworthy Work**
+**Noteworthy Integrations**
 
 - ![](/icons/thales.png) &nbsp; D1 Digital Card Wallet SDK
 - ![](/icons/stripe.svg) &nbsp; Stripe Payments
