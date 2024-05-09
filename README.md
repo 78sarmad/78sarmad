@@ -13,7 +13,7 @@ I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing gre
 
 **Professional Experience**
 
-- Project Manager at [Codigo Studios](https://codigostudios.co.uk/) (Present)
+- Project Manager at [Codigo Studios](https://codigostudios.co.uk/)
 - Flutter Engineer at [ACE Money Transfer](https://acemoneytransfer.com/)
 - Flutter Instructor at [KhasTech Solutions](https://khastech.com/)
 - Software Developer at [UNDP Pakistan](https://www.undp.org/pakistan)
