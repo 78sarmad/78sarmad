@@ -2,14 +2,9 @@
 
 I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing great products and building amazing teams.
 
-<a href="https://www.linkedin.com/in/78sarmad/">
-  <img align="left" alt="Sarmad's LinkedIn" height="30px" src="icons/linkedin.svg" />
-</a>
-<a href="mailto:78sarmad@gmail.com">
-  <img align="left" alt="Sarmad's Behance" height="32px" src="icons/email.svg" />
-</a><br />
-
-<br />
+- Resume: [read.cv/78sarmad](https://read.cv/78sarmad)
+- LinkedIn: [www.linkedin.com/in/78sarmad](https://www.linkedin.com/in/78sarmad/)
+- Email Address: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
 
 **Professional Experience**
 
@@ -20,11 +15,9 @@ I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing gre
 
 **Great Products I've worked on**
 
-- [Space Shuttle Parking](https://space-shuttle.netlify.app/) - Australian Car Park and Shuttle Service software that offers quick and secure parking services to people travelling outside the country.
-- [ACE Money Transfer](https://apps.apple.com/in/app/ace-money-transfer/id1290922727) - International Remittance app that serves over a million users worldwide by providing secure and reliable money transfer services.
-- [ACE Union](https://apps.apple.com/pk/app/ace-union/id1593032066) - Digital Wallet app that facilitates quick and easy payments in the United Kingdom.
-- [MyClub-MyRide](https://apps.apple.com/in/app/myclub-myride/id1642886637) - Luxury Car Rental app, integrated into MyClub's 360 system, is providing transport and travel services in the United Arab Emirates.
-- [Umeed](https://play.google.com/store/apps/details?id=pk.org.umeed) - Psychological Help app that helps patients with psychological issues and connect with professional psychologists.
+- [ACE Money Transfer](https://apps.apple.com/in/app/ace-money-transfer/id1290922727?platform=iphone) - International Remittance app that serves over a million users worldwide by providing secure and reliable money transfer services.
+- [ACE Union](https://apps.apple.com/gb/app/ace-union/id1593032066?platform=iphone) - Digital Wallet app that facilitates quick and easy payments in the United Kingdom.
+- [MyClub-MyRide](https://www.rentmyride.ae/my-club) - Luxury Car Rental app, integrated into MyClub's 360 system, is providing transport and travel services in the United Arab Emirates.
 
 **Noteworthy Integrations**
 
