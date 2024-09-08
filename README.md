@@ -2,7 +2,7 @@
 
 I'm Sarmad Ashfaq Chaudhary. I love improving people’s lives by developing great products and building amazing teams.
 
-- Resume: [read.cv/78sarmad](https://read.cv/78sarmad)
+- Resume: [78sarmad.site](https://78sarmad.site/)
 - LinkedIn: [www.linkedin.com/in/78sarmad](https://www.linkedin.com/in/78sarmad/)
 - Email Address: [78sarmad@gmail.com](mailto:78sarmad@gmail.com)
 
